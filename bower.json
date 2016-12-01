@@ -1,0 +1,6 @@
+{
+  "name": "Multimedijski Sustavi",
+  "dependencies": {
+    "BootstrapCSS": "*"
+  }
+}
