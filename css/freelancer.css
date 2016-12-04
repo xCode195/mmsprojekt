@@ -200,6 +200,7 @@ section.success {
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
+    left:0;
 }
 #portfolio .portfolio-item .portfolio-link {
   display: block;
@@ -503,4 +504,10 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .modal-backdrop {
   opacity: 0;
   display: none;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
 }
